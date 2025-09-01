@@ -1,1 +1,3 @@
 whimsical.com--> for creating flowchart for project
+
+for writing logging --> python logging docs 
