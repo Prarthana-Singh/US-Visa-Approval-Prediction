@@ -1,10 +1,8 @@
 import os
 
-DATABASE_NAME = ""
-COLLECTION_NAME = ""
-MONGODB_URL_KEY = os.getenv(MONGODB_URL_KEY)
-
-
+DATABASE_NAME = "US_VISA"
+COLLECTION_NAME = "visa_data"
+MONGODB_URL_KEY = os.getenv("MongoDB_URL")
 """
 Data Ingestion related constant start with DATA_INGESTION VAR NAME
 """
